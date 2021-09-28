@@ -1,0 +1,13 @@
+Solutions
+
+As a ... customer
+I want ... search for results on page
+So that ... its easier to find
+
+Given ... a user is on a webpage search part
+When ... the user types in a result
+Then ... matching results should show
+
+Given a user is on a search page
+When the user types in an unmatching result
+Then an error message should appear to say there are no matching results
